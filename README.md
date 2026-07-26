@@ -37,3 +37,9 @@ Este módulo abarca el estudio formal del electromagnetismo, desde la electrost�
 Este módulo abarca el estudio formal del Cálculo Integral Avanzado, Sucesiones y Series de Funciones, Ecuaciones Diferenciales Ordinarias, y el Cálculo Multivariable (diferencial e integral), esenciales para la formulación matemática de la física teórica y experimental. Se compone de lecciones teóricas detalladas de análisis real avanzado con simulaciones interactivas en Python (Jupyter Colab).
 
 * Ver el índice completo del módulo y los cuadernos en: **[README Módulo 5: Cálculo II](./05-calculo-2/README.md)**
+
+### Módulo 6: Estadística I
+
+Este módulo abarca el estudio formal de la Estadística Descriptiva, Probabilidad, Distribuciones de Probabilidad y los fundamentos de la Inferencia Estadística, esenciales para el análisis y validación de datos experimentales en física. Se compone de lecciones teóricas detalladas con simulaciones interactivas y visualizaciones en Python (Jupyter Colab).
+
+* Ver el índice completo del módulo y los cuadernos en: **[README Módulo 6: Estadística I](./06-estadistica-1/README.md)**
